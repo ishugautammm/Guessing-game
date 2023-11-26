@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> Ishu Gautam 6d19167e </title>
+<title>6d19167e</title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
